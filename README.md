@@ -30,7 +30,7 @@ No diretório raiz do projeto (e também dentro das pastas frontend e backend, s
 
 yarn install
 
-▶️ Como Executar o Projeto
+▶️ Como Executar o Projeto <br>
 🔹 Back-end
 
 Acesse a pasta do servidor (back-end):
